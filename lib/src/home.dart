@@ -14,7 +14,7 @@ class HomeView extends StatefulWidget {
 }
 
 class _HomeViewState extends State<HomeView> {
-  final google_map_api_key = 'AIzaSyBUhJ0UIrVq_uS-2BlSjgmQvu_IMSfd5WI';
+  final google_map_api_key = '';
   final locations = const [
     LatLng(23.7699653,90.402559),
     LatLng(23.7690205,90.3989846),
